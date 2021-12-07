@@ -1,2 +1,2 @@
 # Generative-Poem-2.0
-This is a generative poem based off of the Christmas poem called "Twas the Night before Christmas".
+This is a generative poem based off of the Christmas poem called "Twas the Night before Christmas". I have designend my code so that it would replace several different words within the poem itself with a random word or several words from a list. I have also tried to preserved the sense of rhyming within the poem. I have done only the first half of the poem due to time constraints, but I am very happy with the overall output of my code. 
